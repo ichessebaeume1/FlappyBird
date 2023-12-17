@@ -1,0 +1,20 @@
+sounds:
+  music: False
+  sounds: False
+
+game:
+  fps: 30
+  fps_increase: 10
+  score_per_pipe: 1
+  pipe_gap: 200
+  pipe_vel: 5
+
+difficulties:
+  easy_mode_on: True
+  normal_mode_on: True
+  impossible_mode_on: False
+
+screen:
+  credits: True
+  ranked_confetti: False
+  countdown_enabled: True
